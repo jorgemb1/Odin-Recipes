@@ -1,0 +1,1 @@
+This is a new project trying to practice and learn new html skills 
